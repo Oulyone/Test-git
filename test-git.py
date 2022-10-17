@@ -27,3 +27,9 @@ hello(time)
 
 # git push
 
+# Create new branch
+
+# git branch newBranch
+
+# git checkout newbranch
+
